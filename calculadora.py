@@ -1,3 +1,5 @@
+
+
 capitalinicial = 0
 juros = 0
 tempo = 0
