@@ -27,4 +27,4 @@ O código utiliza a função `print()` para exibir o saldo após o período. A s
 
 ## Exemplo:
 
-![Untitled](https://ibb.co/pzxKhkB)
+![Untitled](https://i.ibb.co/Wy6zVR4/Capture.png)
