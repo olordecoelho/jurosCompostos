@@ -19,7 +19,7 @@ O código utiliza a função `input()` para receber a entrada de dados do usuár
 O cálculo do saldo após o período é feito utilizando a fórmula de juros compostos:
 Montante = Capital Inicial * (1 + Juros / 100) ** Tempo
 
-![Untitled](https://www.notion.so/Calculadora-de-juros-compostos-37f566526d36455c9af20052bccc2e6f?pvs=4#0f4cec6ef3684308a151f6ce9cee3de6)
+![Untitled](https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/formula-juros-compostos-matematica.jpg)
 
 ## Saída de dados
 
@@ -27,4 +27,4 @@ O código utiliza a função `print()` para exibir o saldo após o período. A s
 
 ## Exemplo:
 
-![Untitled](https://www.notion.so/Calculadora-de-juros-compostos-37f566526d36455c9af20052bccc2e6f?pvs=4#4be496e984ed493f840d61ce5858ab13)
+![Untitled](https://ibb.co/pzxKhkB)
